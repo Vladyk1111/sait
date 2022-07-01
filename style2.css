@@ -122,3 +122,17 @@ li{
 img {
     background-color: lightpink;
 }
+.wes:hover{
+  border: 5px solid red;
+}
+.wes2:hover{
+  border: 5px solid red;
+}
+.wes3:hover{
+  border: 5px solid red;
+}
+.wes4:hover{
+  border: 5px solid red;
+}
+
+
