@@ -90,23 +90,7 @@ footer {
     color: #850AE5;
     font-weight: bolder;
 }
-.pon{
-    background-color: #811d1d;
-    position: fixed;
-    display: block;
-    right:10px;
-    width:100px;
-    height:250px;
-    top:110px;
-    padding-left: 10px;
-    padding-right:10px ;
-    color:white;
-    border-radius: 15px;
-}
-.pono2{
-    position: relative;
-    left:30px;
-}
+
 .text:hover{
     color:rgb(167, 208, 221);
     padding-top:20px;
